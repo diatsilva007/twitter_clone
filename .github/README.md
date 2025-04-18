@@ -1,25 +1,57 @@
-# Title
+# 🐦 Twitter Clone
 
-Classic Twitter Clone
+A fully functional and responsive Twitter UI clone, built to practice and demonstrate modern full-stack development skills. This project replicates core features of the original Twitter platform, providing a solid foundation for further experimentation and learning.
 
-## Information
+## 📸 Demo
 
-- Title: `Classic Twitter Clone`
-- Authors: `Diogo Ataide`
+> *Add screenshots or GIFs here to showcase the UI in action.*
 
-## Use
+---
 
-1. Go to the project's public folder and start the php server to run locally.
-  ```
-  php -S localhost:8080
-  ```
+## 🚀 Tech Stack
 
-2. Open your default browser and access the address/url:
-  ```
-  localhost:8080
-  ```
+- **Frontend:**
+  - Html / CSS
 
-## Directory Hierarchy
+- **Backend:**
+  - PHP
+
+- **Others:**
+  - MySQL
+
+---
+
+## 🧩 Features
+
+- [x] Tweet feed with posts
+- [x] User authentication
+- [x] Create, edit, and delete tweets
+- [x] Like system
+- [x] Comments and retweets
+- [x] Fully responsive layout
+
+---
+
+## 🛠️ Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/diatsilva007/twitter_clone.git
+
+# Navigate to the project directory
+cd twitter_clone
+
+# Install dependencies
+npm install
+
+# Go to the project's public folder and start the php server to run locally.
+php -S localhost:8080
+
+# Open your default browser and access the address/url:
+localhost:8080
+```
+
+## 🗂️ Directory Hierarchy
 
 ```
 |—— App
